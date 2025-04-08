@@ -9,6 +9,7 @@ Hello, my name is Sakshi and I am a IS student at Northeastern University! I enj
 📚 I'm learning Software Engineering and Full Stack Development
 
 **Technologies & Tools**
+
 Languages: Java, C++, C, Python
 Databases: MySQL, PostgreSQL, RDBMS, Oracle, MongoDB, DBMS
 Web technologies: HTML, CSS/SCSS, JavaScript, TypeScript, XML, JSON, Express.js, Node.js, Bootstrap, React.js, HTTP
@@ -17,8 +18,10 @@ Frameworks: Flask, Spring, Swing, Jest, Spring Boot, Junit, Android
 Tools and technologies: MuleSoft, Microservices, Linux, Jira, Jenkins, Git, Postman, MATLAB, Docker, Agile, Kubernetes
 
 **Education**
+
 Northeastern University, Master's in Information Systems
 Coursework: Application Engineering and Design, Web Design and User Experience, Web Development Tools and Methods, Database Management and Database Design
+
 Savitribai Phule Pune University, Bachelors of Science in Computer Science
 Coursework: Data Structures and Algorithms, Object Oriented Programming, Operating Systems, Computer Networks, Machine Learning, Artificial Intelligence
 
