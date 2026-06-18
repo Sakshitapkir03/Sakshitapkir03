@@ -10,12 +10,13 @@ Hello, my name is Sakshi and I am a IS student at Northeastern University! <br> 
 
 **Technologies & Tools**
 
-Languages: Java, C++, C, Python <br>
-Databases: MySQL, PostgreSQL, RDBMS, Oracle, MongoDB, DBMS <br>
-Web technologies: HTML, CSS/SCSS, JavaScript, TypeScript, XML, JSON, Express.js, Node.js, Bootstrap, React.js, HTTP <br>
-Cloud technologies: AWS, Azure, Kafka <br>
-Frameworks: Flask, Spring, Swing, Jest, Spring Boot, Junit, Android <br>
-Tools and technologies: MuleSoft, Microservices, Linux, Jira, Jenkins, Git, Postman, MATLAB, Docker, Agile, Kubernetes <br>
+Languages: Java, Python, JavaScript, C++, Golang, TypeScript, SQL <br>
+Frontend: React.js, Next.js, Angular.js, Figma, HTML, CSS <br>
+Backend: Spring Boot, Node.js, Express.js, Hibernate ORM, REST APIs, OAuth, Kafka, Flask, WebSockets <br>
+Databases: MySQL, PostgreSQL, MongoDB, Supabase, Redis <br>
+Cloud & DevOps: AWS (S3, EC2), GCP, Docker, Kubernetes, Vercel, GitHub Actions, CI/CD, Git, Jira, Jenkins <br>
+AI & ML: PyTorch, LangChain, LangGraph, OpenAI API, FAISS, RAG, LLM, Supabase Vector Store <br>
+Testing: JUnit, Selenium, Unit Testing, Integration Testing <br>
 
 **Education**
 
