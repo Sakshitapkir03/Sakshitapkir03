@@ -25,6 +25,6 @@ Coursework: Application Engineering and Design, Web Design and User Experience, 
 Savitribai Phule Pune University, Bachelors of Science in Computer Science <br>
 Coursework: Data Structures and Algorithms, Object Oriented Programming, Operating Systems, Computer Networks, Machine Learning, Artificial Intelligence
 
-✉️ You can contact me at <br> tapkir.s@northeastern.edu and[ Linkedin](linkedin.com/in/sakshitapkir13)
+✉️ You can contact me at <br> sakshitapkir03@gmail.com and[ Linkedin](linkedin.com/in/sakshitapkir13)
 
 
