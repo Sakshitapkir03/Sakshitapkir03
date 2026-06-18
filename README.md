@@ -6,8 +6,6 @@ Hello, my name is Sakshi and I am a IS student at Northeastern University! <br> 
 
 🌎 Boston, MA
 
-📚 I'm learning Software Engineering and Full Stack Development
-
 **Technologies & Tools**
 
 Languages: Java, Python, JavaScript, C++, Golang, TypeScript, SQL <br>
